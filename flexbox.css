@@ -1,0 +1,12 @@
+.box{
+    font-size: 3em;
+    height: 200px;
+    width: 200px;
+    border: 1px dashed rebeccapurple;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    border: 2px dotted slategrey;
+    height:400px;
+}
